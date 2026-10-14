@@ -47,7 +47,7 @@
   "dependencies": {
     "@floating-ui/dom": "^1.5.3",
     "clsx": "^2.1.1",
-    "cn": "^0.1.1",
+    "cn": "^0.4.0",
     "date-fns": "^4.1.0",
     "highlight.js": "^11.10.0",
     "marked": "^15.0.1",
